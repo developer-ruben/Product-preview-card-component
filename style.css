@@ -46,6 +46,7 @@ body {
   color: hsl(var(--clr-dark-grayish-blue));
   font-size: 1.4rem;
   padding: 2.8rem 1.6rem;
+  font-weight: 500;
 }
 
 h2 {
@@ -93,7 +94,6 @@ p {
 .card__category {
   font-size: 1.2rem;
   text-transform: uppercase;
-  font-weight: 500;
   margin-bottom: 2rem;
   display: block;
   letter-spacing: 5px;
@@ -126,7 +126,6 @@ p {
 
 .card__price--old {
   font-size: 1.3rem;
-  font-weight: 500;
 }
 
 .card__button {
@@ -136,7 +135,7 @@ p {
   display: flex;
   gap: 1.2rem;
   border: 0;
-  font-weight: bold;
+  font-weight: 700;
   font-size: 1.4rem;
   width: 100%;
   padding: 1.6rem 0;
